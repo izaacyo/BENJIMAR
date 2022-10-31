@@ -1,6 +1,6 @@
 ---
-title: 'Outgoings iOS App'
-summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
+title: 'Presenting A Unique Wood Leather Book Box'
+summary: 'Decor books combine classic patterns with vintage elements to make your bookshelf look classier.'
 displayOrder: 1
 featured: true
 hero:
