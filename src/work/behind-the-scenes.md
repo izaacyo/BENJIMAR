@@ -1,6 +1,6 @@
 ---
 title: 'Behind the scenes'
-summary: 'This wooden book box by BENJIMAR™ is well-crafted of MDF material, which is safe and strong.'
+summary: 'This wooden book box by BENJIMAR is well-crafted of MDF material, which is safe and strong.'
 displayOrder: 2
 featured: true
 hero:
