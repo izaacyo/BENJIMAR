@@ -15,7 +15,7 @@
       // Optical adjustment to account for the offset the sunken 3s create
       transform: translateY(0.25rem);
   
-      svg {
+      .brand {
         width: 100px;
       }
     }
@@ -26,7 +26,7 @@
   
     @include media-query('md') {
       &__brand {
-        svg {
+        .brand {
           width: 160px;
         }
       }

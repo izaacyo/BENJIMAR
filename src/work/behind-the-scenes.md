@@ -4,7 +4,7 @@ summary: 'This wooden book box by BENJIMAR is well-crafted of MDF material, whic
 displayOrder: 2
 featured: true
 hero:
-  image: '/images/work/behind-the-scenes-hero.jpg'
+  image: '/images/work/book2.jpg'
   imageAlt: 'A composition of all the views from the app'
 keyFacts:
   - primary: '50%'

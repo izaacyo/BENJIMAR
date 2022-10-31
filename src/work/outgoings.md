@@ -4,7 +4,7 @@ summary: 'Decor books combine classic patterns with vintage elements to make you
 displayOrder: 1
 featured: true
 hero:
-  image: '/images/work/outgoings-hero.jpg'
+  image: '/images/work/book1.jpg'
   imageAlt: 'Screens from the app, composed together as a group.'
 keyFacts:
   - primary: '50%'

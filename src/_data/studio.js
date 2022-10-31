@@ -6,22 +6,22 @@ const Cache = require('@11ty/eleventy-cache-assets');
  *
  * @returns {Array} Empty or array of objects
  */
-module.exports = async () => {
-  try {
-    // Grabs either the fresh remote data or cached data (will always be fresh live)
-    const {items} = await Cache(
-      'https://11ty-from-scratch-content-feeds.piccalil.li/media.json',
-      {
-        duration: '1d', // 1 day
-        type: 'json'
-      }
-    );
-
-    return items;
-  } catch (ex) {
-    console.log(ex);
-
-    // If failed, return back an empty array
-    return [];
-  }
-};
+module.exports = [
+    {
+      "alt": "A notepad, mechanical pencil, phone and plant on very brightly lit desk",
+      "medium": "/images/bg/studio-1.jpg"
+    },
+    {
+      "alt": "Man sketching in notepad with laptop and SLR camera in shot on wooden desk",
+      "medium": "/images/bg/studio-2.jpg",
+    },
+    {
+      "alt": "Studio environment with benches of desks",
+      "medium": "/images/bg/studio-4.jpg",
+    },
+    {
+      "alt": "Table tennis table inside a bare-brick room with lots of light",
+      "medium": "/images/bg/studio-5.jpg",
+    }
+    
+  ]

@@ -7,14 +7,14 @@ intro:
   summary: 'Set the tone of your space with high-quality bookshelf accessories that make a statement.'
   buttonText: 'See our product'
   buttonUrl: '/work'
-  image: '/images/bg/toast.jpg'
+  image: '/images/bg/site-3.jpg'
   imageAlt: 'Buttered toasted white bread'
 primaryCTA:
   title: 'Beautiful Decor That Sets The Tone'
   summary: 'Conceal your valuables with the help of functional
 storage space that also serves as a decorative centerpiece.'
-  buttonText: 'Purchase the product'
-  buttonUrl: 'https://www.amazon.com/'
+  buttonText: 'Our story'
+  buttonUrl: '/about-us'
 featuredWork:
   title: 'Stylish, Practical, Durable'
   summary: ''

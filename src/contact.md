@@ -1,5 +1,5 @@
 ---
-title: 'Contact us'
+title: 'We Are BENJIMAR™, contact us'
 layout: 'layouts/page.html'
 ---
 

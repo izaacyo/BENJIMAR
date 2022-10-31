@@ -5,7 +5,7 @@ large capacity to accommodate a book and a variety of small things.'
 displayOrder: 3
 featured: true 
 hero:
-  image: '/images/work/brunch-and-brew-hero.jpg'
+  image: '/images/work/book3.jpg'
   imageAlt: 'A composition of the main landing screen and other key
   views'
 keyFacts:

@@ -4,7 +4,7 @@ summary: 'Boasts clear and beautiful decorative patterns that will make your roo
 displayOrder: 4
 featured: false
 hero:
-  image: '/images/work/breakfast-club-hero.jpg'
+  image: '/images/work/book4.jpg'
   imageAlt: 'The breakfast club hero image'
 keyFacts:
   - primary: '50%'

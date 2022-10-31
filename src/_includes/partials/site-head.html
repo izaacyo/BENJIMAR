@@ -3,8 +3,12 @@
   <div class="wrapper">
     <div class="site-head__inner">
         <a href="/" aria-label="{{ site.name }} - home" class="site-head__brand">
-            {% include "partials/brand.svg" %}
-      </a>
+          <img
+          class="brand"
+          src="/images/bg/test1.png"
+          alt="Benjimar logo"
+          
+        />      </a>
       <nav class="[ nav ] [ site-head__nav ] [ font-sans ]" aria-label="Primary">
         <ul class="nav__list">
             {% for item in navigation.items %}
