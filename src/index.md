@@ -4,7 +4,7 @@ metaDesc: 'A made up agency site that you build if you take Learn Eleventy From 
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'More Than Storage'
-  main: 'Benjimar'
+  main: 'BENJIMAR'
   summary: 'Set the tone of your space with high-quality bookshelf accessories that make a statement.'
   buttonText: 'See our product'
   buttonUrl: '/work'
