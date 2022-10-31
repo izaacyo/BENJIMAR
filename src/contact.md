@@ -14,6 +14,5 @@ Tuomas - "I bought one of these about a week ago and I ended up buying a second 
 purpose could not be met with just one. I like to keep the letters and cards I receive from my
 family and friends and previously they were just sort of taking up a bottom of a drawer."
 
-Text us 
 
-You can go ahead and purchase the wooden book box by visiting [BENJIMAR™](https://amazon.com).
+You can go ahead and contact us by writing to the email benjimar@outlook.com

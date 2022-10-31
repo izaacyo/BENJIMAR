@@ -1,10 +1,9 @@
 ---
-title: 'BENJIMAR™'
+title: 'BENJIMAR'
 metaDesc: 'A made up agency site that you build if you take Learn Eleventy From Scratch, by Piccalilli'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'More Than Storage'
-  main: 'BENJIMAR™'
   summary: 'Set the tone of your space with high-quality bookshelf accessories that make a statement.'
   buttonText: 'See our product'
   buttonUrl: '/work'
