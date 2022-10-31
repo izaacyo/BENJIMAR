@@ -16,4 +16,4 @@ family and friends and previously they were just sort of taking up a bottom of a
 
 Text us 
 
-You can go ahead and purchase the wooden book box by visiting [BENJIMAR](https://amazon.com).
+You can go ahead and purchase the wooden book box by visiting [BENJIMAR™](https://amazon.com).
