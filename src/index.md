@@ -15,7 +15,7 @@ primaryCTA:
   summary: 'Conceal your valuables with the help of functional
 storage space that also serves as a decorative centerpiece.'
   buttonText: 'Purchase the product'
-  buttonUrl: '/'
+  buttonUrl: 'https://www.amazon.com/'
 featuredWork:
   title: 'Stylish, Practical, Durable'
   summary: ''
