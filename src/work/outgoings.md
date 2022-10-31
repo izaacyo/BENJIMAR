@@ -1,5 +1,5 @@
 ---
-title: 'Presenting A Unique Wood Leather Book Box'
+title: 'A Unique Wood Leather Book Box'
 summary: 'Decor books combine classic patterns with vintage elements to make your bookshelf look classier.'
 displayOrder: 1
 featured: true
