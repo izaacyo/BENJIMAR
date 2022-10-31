@@ -1,7 +1,6 @@
 ---
 title: 'Behind the scenes'
-summary: 'A travel journal that transports you to some of the most
-beautiful places on earth.'
+summary: 'This wooden book box by BENJIMAR™ is well-crafted of MDF material, which is safe and strong.'
 displayOrder: 2
 featured: true
 hero:

@@ -1,7 +1,6 @@
 ---
 title: 'Breakfast Club'
-summary: 'boasts clear and beautiful
-decorative patterns that will make your room look more charming.'
+summary: 'Boasts clear and beautiful decorative patterns that will make your room look more charming.'
 displayOrder: 4
 featured: false
 hero:
