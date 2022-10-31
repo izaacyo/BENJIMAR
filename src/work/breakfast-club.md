@@ -1,7 +1,7 @@
 ---
 title: 'Breakfast Club'
-summary: 'A swanky website for a swanky new restaurant in the heart of
-Glasgow.'
+summary: 'boasts clear and beautiful
+decorative patterns that will make your room look more charming.'
 displayOrder: 4
 featured: false
 hero:

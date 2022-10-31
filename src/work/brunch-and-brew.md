@@ -1,7 +1,7 @@
 ---
 title: 'Brunch & Brew'
-summary: 'An app that helps to bring different generations together via
-intergenerational volunteering.'
+summary: 'It has a
+large capacity to accommodate a book and a variety of small things.'
 displayOrder: 3
 featured: true 
 hero:

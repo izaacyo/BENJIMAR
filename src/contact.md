@@ -16,4 +16,4 @@ family and friends and previously they were just sort of taking up a bottom of a
 
 Text us 
 
-You can go ahead and purchase the course to build this page—amongst [the rest of the site](/)—by visiting [Piccalilli](https://learneleventyfromscratch.com).
+You can go ahead and purchase the wooden book box by visiting [BENJIMAR](https://amazon.com).
