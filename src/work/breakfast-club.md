@@ -1,5 +1,5 @@
 ---
-title: 'Breakfast Club'
+title: 'Designed to impress'
 summary: 'Boasts clear and beautiful decorative patterns that will make your room look more charming.'
 displayOrder: 4
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'Brunch & Brew'
+title: 'Quality keepsakes'
 summary: 'It has a
 large capacity to accommodate a book and a variety of small things.'
 displayOrder: 3
