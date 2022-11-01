@@ -1,5 +1,5 @@
 ---
-title: 'About BENJIMAR'
+title: 'We are Benjimar'
 layout: 'layouts/about.html'
 permalink: '/about-us/index.html'
 ---

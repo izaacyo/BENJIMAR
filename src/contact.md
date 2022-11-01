@@ -1,5 +1,5 @@
 ---
-title: 'We Are BENJIMAR'
+title: 'Here to find you the perfect decor'
 layout: 'layouts/page.html'
 ---
 

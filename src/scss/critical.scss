@@ -40,9 +40,9 @@
   h4 {
     font-weight: 900;
   
-    @include apply-utility('font', 'sans');
-    @include apply-utility('leading', 'flat');
-  }
+    @include apply-utility('font', 'roseritta');  }
+
+  
   
   // High contrast selection because it can help visually-impaired
   // folks read the text easier

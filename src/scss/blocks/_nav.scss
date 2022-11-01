@@ -5,6 +5,7 @@
     margin-inline-start: -#{get-size('400')};
   
     &__list {
+      @include apply-utility('font', 'roseritta');
       display: flex;
       flex-wrap: wrap;
   
