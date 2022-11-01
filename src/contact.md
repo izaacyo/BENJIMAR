@@ -1,5 +1,5 @@
 ---
-title: 'We Are BENJIMAR™, contact us'
+title: 'We Are BENJIMAR, contact us'
 layout: 'layouts/page.html'
 ---
 
@@ -15,4 +15,4 @@ purpose could not be met with just one. I like to keep the letters and cards I r
 family and friends and previously they were just sort of taking up a bottom of a drawer."
 
 
-You can go ahead and contact us by writing to the email benjimar@outlook.com
+You can go ahead and contact us by writing to the email teodorpopa@benjimar.com

@@ -1,5 +1,5 @@
 ---
-title: 'Why Choose BENJIMAR™'
+title: 'Why Choose BENJIMAR'
 layout: 'layouts/work-landing.html'
 ---
 
