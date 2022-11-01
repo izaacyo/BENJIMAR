@@ -3,8 +3,16 @@
     text-align: center;
 
     p {
-      font-family: Roseritta;
-      src: url('/src/fonts/Roseritta.ttf') format('ttf'), url('/src/fonts/Roseritta.ttf') format('ttf');
-  }
+      @include apply-utility('font', 'roseritta');
+      font-size: get-size('300');     
+      display: inline-block;
+      vertical-align: top;
+      margin: 0;
+      padding: 0;
+    }
 
+    .trademark{
+      font-size: get-size('300');     
+      font-family: Arial, Helvetica, sans-serif;
+    }
 }
